@@ -1,4 +1,4 @@
-#Title: Automatic Title Generation using Natural Language Processing
+# Title: Automatic Title Generation using Natural Language Processing
 
 **Introduction:**
 Creating captivating and engaging titles is a critical aspect of content creation in various fields, such as journalism, marketing, and social media. However, generating effective titles can be a time-consuming and challenging task. This project aims to develop an automatic title generation system using Natural Language Processing (NLP) techniques. By leveraging the power of machine learning and text analysis, this project aims to generate catchy and informative titles for different types of content.
